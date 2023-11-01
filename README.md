@@ -1,3 +1,9 @@
-# Python_dataanalysis
-![World countries graph](https://github.com/DASonalMangal/Python_dataanalysis/assets/77008424/7c462a3c-d765-4b1d-b01a-a03b4b86d183)
-![ML linear_regression graph](https://github.com/DASonalMangal/Python_dataanalysis/assets/77008424/5a35750d-4a06-4285-a926-f626de7e94cc)
+# Python_DataAnalyst_Projects
+Python Data Analyst Projects
+
+Objective: Get insights to review the relationship between Birth Rate - Internet Users - Income Group about countries around the world.
+* Web scraping data
+* Upload data to Python
+* Data cleaning process in Python
+* Sub setting data frames using Pandas
+* Plotting visualization using seaborn (boxplot, distribution plot, bars plot, scatter plot)
